@@ -1,0 +1,22 @@
+{
+  "name": "new-repo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rada-fairadova/new-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rada-fairadova/new-repo/issues"
+  },
+  "homepage": "https://github.com/rada-fairadova/new-repo#readme",
+  "dependencies": {
+    "@rada-fairadova/ajs": "^1.0.1"
+  }
+}
